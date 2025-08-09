@@ -4,6 +4,8 @@
 
 ## Basic Details
 
+PixcII is a C++ / OpenCV project that transforms video frames into **animated, colored ASCII art** and plays them directly in your terminal — combining retro aesthetics with real-time performance.
+
 ### Team Name: BugBusters
 
 ### Team Members
