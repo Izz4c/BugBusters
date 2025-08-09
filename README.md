@@ -84,7 +84,8 @@ The program displaying "Undertale Sans Boss Fight"
 # Project Demo
 
 ### Video
-https://drive.google.com/file/d/1enS56rG9skn9LTiPxPfnlpwWG0biLHGw/view?usp=drive_link
+https://drive.google.com/file/d/1enS56rG9skn9LTiPxPfnlpwWG0biLHGw/view?usp=drive_link    
+
 https://drive.google.com/file/d/1fzLkB-JI674DcVysYR-wPka4XgMmxX0p/view?usp=drive_link
  
 The program displaying a video
