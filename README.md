@@ -13,7 +13,7 @@
 
 ### Project Description
 
-PixcII is a C++ / OpenCV project that transforms video frames into **animated, colored ASCII art** and plays them directly in your terminal — combining retro aesthetics with real-time performance.
+PixcII is a C++ / OpenCV project that transforms video frames into **animated, colored ASCII art** and plays them directly in your terminal.
 
 ### The Problem (that doesn't exist)
 
@@ -43,10 +43,9 @@ For Software:
 - **Frameworks used:**  
   ✅ None (pure C++)
 - **Libraries used:**  
-  ✅ OpenCV – video handling, frame resizing, and pixel extraction  
-  ✅ ANSI Escape Codes – for colored ASCII output in terminal  
-- **Tools used:**  
-  ✅ g++ – compiling  
+  ✅ OpenCV – video handling, frame resizing, and pixel extraction    
+- **Tools used:**
+  ✅ g++ – compiling
   ✅ Terminal – for running the program
 
 For Hardware:
@@ -56,28 +55,26 @@ For Hardware:
 - **Specifications:**  
   ✅ Minimum: Dual-core CPU, 4 GB RAM  
   ✅ Recommended: Quad-core CPU, 8 GB RAM for smoother playback
-- **Tools required:**  
-  ✅ Keyboard, Mouse, Terminal Access  
+- **Tools required:**
+  ✅ Terminal that supports color
   ✅ Sample video files (MP4, AVI, etc.)
 
 
 ### Implementation
 
-For Software:
-
 # Installation
 
-[commands]
+Install **OpenCV** and **g++** for your OS
+
+```g++ main.cpp -o pixcii `pkg-config --cflags --libs opencv4` ```
 
 # Run
 
-[commands]
+```pixcii [videopath] [screen_width]```
 
 ### Project Documentation
 
-For Software:
-
-# Screenshots (Add at least 3)
+# Screenshots
 
 ![Screenshot1](Add screenshot 1 here with proper name)
 _Add caption explaining what this shows_
@@ -90,25 +87,6 @@ _Add caption explaining what this shows_
 
 # Diagrams
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/Izz4c/BugBusters/blob/main/flowchart.png"/>
-
-# Schematic & Circuit
-
-![Circuit](Add your circuit diagram here)
-_Add caption explaining connections_
-
-![Schematic](Add your schematic diagram here)
-_Add caption explaining the schematic_
-
-# Build Photos
-
-![Components](Add photo of your components here)
-_List out all components shown_
-
-![Build](Add photos of build process here)
-_Explain the build steps_
-
-![Final](Add photo of final product here)
-_Explain the final build_
 
 ### Project Demo
 
