@@ -38,17 +38,29 @@ Because when life gives you pixels, turn them into text.
 ### Technologies/Components Used
 
 For Software:
-
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+ - **Languages used:**  
+  - C++
+- **Frameworks used:**  
+  - None (pure C++)
+- **Libraries used:**  
+  - OpenCV – video handling, frame resizing, and pixel extraction  
+  - ANSI Escape Codes – for colored ASCII output in terminal  
+- **Tools used:**  
+  - g++ – compiling  
+  - CMake (optional) – build configuration  
+  - Terminal – for running the program
 
 For Hardware:
 
-- [List main components]
-- [List specifications]
-- [List tools required]
+- **Main components:**  
+  - Any computer capable of running C++ and OpenCV
+- **Specifications:**  
+  - Minimum: Dual-core CPU, 4 GB RAM  
+  - Recommended: Quad-core CPU, 8 GB RAM for smoother playback
+- **Tools required:**  
+  - Keyboard, Mouse, Terminal Access  
+  - Sample video files (MP4, AVI, etc.)
+
 
 ### Implementation
 
@@ -106,19 +118,5 @@ _Explain the final build_
 [Add your demo video link here]
 _Explain what the video demonstrates_
 
-# Additional Demos
-
-[Add any extra demo materials/links]
-
-## Team Contributions
-
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
-
 Made with ❤️ at TinkerHub Useless Projects
 
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
