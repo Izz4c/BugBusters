@@ -19,7 +19,7 @@ PixcII is a C++ / OpenCV project that transforms video frames into **animated, c
 
 Imagine this: you’ve just installed a brand-new copy of any OS.
 It’s shiny. It’s clean. It has… absolutely no media players installed.
-You double-click your favorite video — Windows stares back at you, helpless.
+You double-click your favorite video —OS stares back at you, helpless.
 
 Installing VLC? Takes too long.
 Opening a browser to stream it? Ugh, that’s work.
