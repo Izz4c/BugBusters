@@ -38,7 +38,7 @@ Because when life gives you pixels, turn them into text.
 ### Technologies/Components Used
 
 For Software:
- - **Languages used:**  
+- **Languages used:**  
   - C++
 - **Frameworks used:**  
   - None (pure C++)
