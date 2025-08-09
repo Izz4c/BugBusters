@@ -47,7 +47,6 @@ For Software:
   - ANSI Escape Codes – for colored ASCII output in terminal  
 - **Tools used:**  
   - g++ – compiling  
-  - CMake (optional) – build configuration  
   - Terminal – for running the program
 
 For Hardware:
