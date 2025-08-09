@@ -4,7 +4,7 @@
 
 ## Basic Details
 
-### Team Name: BugBusters
+### Team Name: BugBusters ⚙️
 
 ### Team Members
 
@@ -39,26 +39,26 @@ Because when life gives you pixels, turn them into text.
 
 For Software:
 - **Languages used:**  
-  - C++
+  ✅ C++
 - **Frameworks used:**  
-  - None (pure C++)
+  ✅ None (pure C++)
 - **Libraries used:**  
-  - OpenCV – video handling, frame resizing, and pixel extraction  
-  - ANSI Escape Codes – for colored ASCII output in terminal  
+  ✅ OpenCV – video handling, frame resizing, and pixel extraction  
+  ✅ ANSI Escape Codes – for colored ASCII output in terminal  
 - **Tools used:**  
-  - g++ – compiling  
-  - Terminal – for running the program
+  ✅ g++ – compiling  
+  ✅ Terminal – for running the program
 
 For Hardware:
 
 - **Main components:**  
-  - Any computer capable of running C++ and OpenCV
+  ✅ Any computer capable of running C++ and OpenCV
 - **Specifications:**  
-  - Minimum: Dual-core CPU, 4 GB RAM  
-  - Recommended: Quad-core CPU, 8 GB RAM for smoother playback
+  ✅ Minimum: Dual-core CPU, 4 GB RAM  
+  ✅ Recommended: Quad-core CPU, 8 GB RAM for smoother playback
 - **Tools required:**  
-  - Keyboard, Mouse, Terminal Access  
-  - Sample video files (MP4, AVI, etc.)
+  ✅ Keyboard, Mouse, Terminal Access  
+  ✅ Sample video files (MP4, AVI, etc.)
 
 
 ### Implementation
