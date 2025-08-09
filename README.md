@@ -79,8 +79,42 @@ _Add caption explaining what this shows_
 
 # Diagrams
 
-![Workflow](Add your workflow/architecture diagram here)
-_Add caption explaining your workflow_
+┌─────────────────┐
+         │   Video File     │
+         │ (MP4 / AVI etc.) │
+         └────────┬────────┘
+                  │
+                  ▼
+        ┌───────────────────┐
+        │  OpenCV VideoRead  │
+        │ (frame by frame)   │
+        └────────┬──────────┘
+                 │
+                 ▼
+     ┌───────────────────────┐
+     │ Resize Frame to ASCII │
+     │ Width & Aspect Ratio  │
+     └────────┬──────────────┘
+              │
+              ▼
+ ┌─────────────────────────────┐
+ │ Convert Pixels to ASCII Char│
+ │  - Brightness → Symbol      │
+ │  - Keep Original RGB Color  │
+ └───────────┬─────────────────┘
+             │
+             ▼
+ ┌─────────────────────────────┐
+ │ Format with ANSI Escape Codes│
+ │   (for color in terminal)   │
+ └───────────┬─────────────────┘
+             │
+             ▼
+   ┌──────────────────────────┐
+   │ Display in Output Medium │
+   │  - Terminal (current)    │
+   │  
+   └──────────────────────────┘
 
 For Hardware:
 
