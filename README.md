@@ -74,9 +74,10 @@ Install **OpenCV** and **g++** for your OS
 Running the program
 
 <img width="985" height="985" alt="frame (3)" src="https://github.com/Izz4c/BugBusters/blob/main/assets/screenshot.jpg"/>
+The program displaying "Undertale Sans Boss Fight" at low resolution
 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/Izz4c/BugBusters/blob/main/assets/running.jpg"/>
-The program displaying "Undertale Sans Boss Fight"
+Kirbyyy
 
 # Diagrams
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/Izz4c/BugBusters/blob/main/assets/flowchart.png"/>
@@ -84,9 +85,9 @@ The program displaying "Undertale Sans Boss Fight"
 # Project Demo
 
 ### Video
-https://drive.google.com/file/d/1enS56rG9skn9LTiPxPfnlpwWG0biLHGw/view?usp=drive_link    
+[Demo Video 1](https://drive.google.com/file/d/1enS56rG9skn9LTiPxPfnlpwWG0biLHGw/view?usp=drive_link)    
 
-https://drive.google.com/file/d/1fzLkB-JI674DcVysYR-wPka4XgMmxX0p/view?usp=drive_link
+[Demo Video 2](https://drive.google.com/file/d/13REsiIfPOvWVTrg2Jp9DdTZd4ULvHooX/view?usp=sharing)
  
 The program displaying a video
 
