@@ -78,45 +78,7 @@ _Add caption explaining what this shows_
 _Add caption explaining what this shows_
 
 # Diagrams
-
-┌─────────────────┐
-         │   Video File     │
-         │ (MP4 / AVI etc.) │
-         └────────┬────────┘
-                  │
-                  ▼
-        ┌───────────────────┐
-        │  OpenCV VideoRead  │
-        │ (frame by frame)   │
-        └────────┬──────────┘
-                 │
-                 ▼
-     ┌───────────────────────┐
-     │ Resize Frame to ASCII │
-     │ Width & Aspect Ratio  │
-     └────────┬──────────────┘
-              │
-              ▼
- ┌─────────────────────────────┐
- │ Convert Pixels to ASCII Char│
- │  - Brightness → Symbol      │
- │  - Keep Original RGB Color  │
- └───────────┬─────────────────┘
-             │
-             ▼
- ┌─────────────────────────────┐
- │ Format with ANSI Escape Codes│
- │   (for color in terminal)   │
- └───────────┬─────────────────┘
-             │
-             ▼
-   ┌──────────────────────────┐
-   │ Display in Output Medium │
-   │  - Terminal (current)    │
-   │  
-   └──────────────────────────┘
-
-For Hardware:
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Izz4c/BugBusters/blob/main/flowchart.png"/>
 
 # Schematic & Circuit
 
