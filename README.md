@@ -44,23 +44,19 @@ For Software:
   ✅ None (pure C++)
 - **Libraries used:**  
   ✅ OpenCV – video handling, frame resizing, and pixel extraction    
-- **Tools used:**
-  ✅ g++ – compiling
-  ✅ Terminal – for running the program
-
+- **Tools used:**     
+  ✅ ffplay - for audio    
+  ✅ g++ – compiling    
+	✅ Terminal that supports color.    
+  ✅ Sample video files (MP4, AVI, etc.).
+   
 For Hardware:
 
 - **Main components:**  
   ✅ Any computer capable of running C++ and OpenCV
 - **Specifications:**  
   ✅ Minimum: Dual-core CPU, 4 GB RAM  
-  ✅ Recommended: Quad-core CPU, 8 GB RAM for smoother playback
-- **Tools required:**
-  ✅ Terminal that supports color
-  ✅ Sample video files (MP4, AVI, etc.)
-
-
-### Implementation
+  ✅ Recommended: Quad-core CPU, 8 GB RAM for smoother playback.      
 
 # Installation
 
@@ -71,8 +67,6 @@ Install **OpenCV** and **g++** for your OS
 # Run
 
 ```pixcii [videopath] [screen_width]```
-
-### Project Documentation
 
 # Screenshots
 
@@ -88,9 +82,9 @@ _Add caption explaining what this shows_
 # Diagrams
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/Izz4c/BugBusters/blob/main/flowchart.png"/>
 
-### Project Demo
+# Project Demo
 
-# Video
+### Video
 
 [Add your demo video link here]
 _Explain what the video demonstrates_
