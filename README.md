@@ -70,24 +70,24 @@ Install **OpenCV** and **g++** for your OS
 
 # Screenshots
 
-![Screenshot1](Add screenshot 1 here with proper name)
-_Add caption explaining what this shows_
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Izz4c/BugBusters/blob/main/assets/run.jpg"/>
+Running the program
 
-![Screenshot2](Add screenshot 2 here with proper name)
-_Add caption explaining what this shows_
+<img width="985" height="985" alt="frame (3)" src="https://github.com/Izz4c/BugBusters/blob/main/assets/screenshot.jpg"/>
 
-![Screenshot3](Add screenshot 3 here with proper name)
-_Add caption explaining what this shows_
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Izz4c/BugBusters/blob/main/assets/running.jpg"/>
+The program displaying "Undertale Sans Boss Fight"
 
 # Diagrams
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Izz4c/BugBusters/blob/main/flowchart.png"/>
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Izz4c/BugBusters/blob/main/assets/flowchart.png"/>
 
 # Project Demo
 
 ### Video
-
-[Add your demo video link here]
-_Explain what the video demonstrates_
+https://drive.google.com/file/d/1enS56rG9skn9LTiPxPfnlpwWG0biLHGw/view?usp=drive_link
+https://drive.google.com/file/d/1fzLkB-JI674DcVysYR-wPka4XgMmxX0p/view?usp=drive_link
+ 
+The program displaying a video
 
 Made with ❤️ at TinkerHub Useless Projects
 
