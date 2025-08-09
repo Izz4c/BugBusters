@@ -4,8 +4,6 @@
 
 ## Basic Details
 
-PixcII is a C++ / OpenCV project that transforms video frames into **animated, colored ASCII art** and plays them directly in your terminal — combining retro aesthetics with real-time performance.
-
 ### Team Name: BugBusters
 
 ### Team Members
@@ -15,15 +13,25 @@ PixcII is a C++ / OpenCV project that transforms video frames into **animated, c
 
 ### Project Description
 
-[2-3 lines about what your project does]
+PixcII is a C++ / OpenCV project that transforms video frames into **animated, colored ASCII art** and plays them directly in your terminal — combining retro aesthetics with real-time performance.
 
 ### The Problem (that doesn't exist)
 
-[What ridiculous problem are you solving?]
+Imagine this: you’ve just installed a brand-new copy of Windows.
+It’s shiny. It’s clean. It has… absolutely no media players installed.
+You double-click your favorite movie — Windows stares back at you, helpless.
+
+Installing VLC? Takes too long.
+Opening a browser to stream it? Ugh, that’s work.
+What if… you could watch the video instantly, right in your terminal?
 
 ### The Solution (that nobody asked for)
 
-[How are you solving it? Keep it fun!]
+Enter PixcII — the world’s most unnecessary yet oddly satisfying answer.
+All you need is a terminal, a C++ compiler, and OpenCV.
+No clunky video players, no bloated UI — just pure ASCII characters rendering your video in real time, colors included.
+
+Because when life gives you pixels, turn them into text.
 
 ## Technical Details
 
