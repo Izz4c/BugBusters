@@ -17,7 +17,7 @@ PixcII is a C++ / OpenCV project that transforms video frames into **animated, c
 
 ### The Problem (that doesn't exist)
 
-Imagine this: you’ve just installed a brand-new copy of any OS.
+⚠️Imagine this: you’ve just installed a brand-new copy of any OS.
 It’s shiny. It’s clean. It has… absolutely no media players installed.
 You double-click your favorite video —OS stares back at you, helpless.
 
@@ -27,7 +27,7 @@ What if… you could watch the video instantly, right in your terminal?
 
 ### The Solution (that nobody asked for)
 
-Enter PixcII — the world’s most unnecessary yet oddly satisfying answer.
+💡 Enter PixcII — the world’s most unnecessary yet oddly satisfying answer.
 All you need is a terminal, a C++ compiler, and OpenCV.
 No clunky video players, no bloated UI — just pure ASCII characters rendering your video in real time, colors included.
 
