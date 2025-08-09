@@ -77,7 +77,7 @@ Running the program
 The program displaying "Undertale Sans Boss Fight" at low resolution
 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/Izz4c/BugBusters/blob/main/assets/running.jpg"/>
-Kirbyyy
+Image of Kirby
 
 # Diagrams
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/Izz4c/BugBusters/blob/main/assets/flowchart.png"/>
